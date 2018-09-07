@@ -6,3 +6,7 @@ okay add something here
 ## Purpose
 
 Sample website with plenty of files for demos
+
+## Deployment!
+
+Can be deployed anywhere anytime
