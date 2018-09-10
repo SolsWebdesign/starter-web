@@ -10,3 +10,7 @@ Sample website with plenty of files for demos
 ## Deployment!
 
 Can be deployed anywhere anytime
+
+### copyright
+
+Copyright 2018
