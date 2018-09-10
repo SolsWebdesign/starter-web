@@ -11,6 +11,10 @@ Sample website with plenty of files for demos
 
 Can be deployed anywhere anytime
 
+## how to contribute
+
+fork it
+
 ### copyright
 
 Copyright 2018
